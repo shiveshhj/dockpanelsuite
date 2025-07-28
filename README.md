@@ -14,3 +14,5 @@ For more details, check out [http://dockpanelsuite.com](http://dockpanelsuite.co
 Visual Studio 2019 Community edition and above is recommended to compile the code base.
 
 > **If you look for alternative options, use a search engine to learn more about better components like Krypton Docking.**
+>
+> To build this repo
